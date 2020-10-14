@@ -1,0 +1,19 @@
+#include <iostream>
+
+int main(void)
+{
+	int val1;
+	std::cout<<"? ??¡Æ ???????: ";
+	std::cin>>val1;
+
+	int val2;	
+	std::cout<<"?? ??¡Æ ???????: ";
+	std::cin>>val2;
+
+	int result=val1+val2;
+	std::cout<<"???????: "<<result<<std::endl;
+
+	system("pause");
+	//std::cin.get();
+	return 0;
+}
