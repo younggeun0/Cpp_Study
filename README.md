@@ -6,7 +6,7 @@
 * C++ 기본 문법 정리
 
 * 교재 요약
-  * [Chapter1]()
+  * [Chapter1](https://github.com/younggeun0/Cpp_Study/blob/master/chapter1.md)
   * [Chapter2]()
   * [Chapter3]()
   * [Chapter4]()
