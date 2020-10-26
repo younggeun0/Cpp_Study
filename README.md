@@ -7,7 +7,7 @@
 * **교재 요약**
   * [Chapter1 - std io, function overloading, default value, inline function, namespace](https://github.com/younggeun0/Cpp_Study/blob/master/chapter1.md)
   * [Chapter2 - bool, Reference, new & delete](https://github.com/younggeun0/Cpp_Study/blob/master/chapter2.md)
-  * [Chapter3]()
+  * [Chapter3 - struct, class, OOP](https://github.com/younggeun0/Cpp_Study/blob/master/chapter3.md)
   * [Chapter4]()
   * [Chapter5]()
   * [Chapter6]()
